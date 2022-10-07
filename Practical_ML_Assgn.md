@@ -1,6 +1,6 @@
 # Predict activity quality from activity monitors
-Somilya Anand  
-4th October 2022 
+Daniel Fernandes
+7th October 2022 
 
 ##Synopsis
 
